@@ -1,0 +1,15 @@
+.homepage{
+    width:100%;
+    display: flex;
+    flex-direction: row;
+}
+
+.homepage__nav {
+    width: 40%;
+}
+
+
+.homepage__Timeline {
+    width: 60%;
+}
+
